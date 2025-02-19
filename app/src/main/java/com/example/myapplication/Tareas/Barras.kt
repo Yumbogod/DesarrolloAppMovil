@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.Tareas
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
