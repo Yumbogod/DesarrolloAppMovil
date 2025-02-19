@@ -1,4 +1,4 @@
-package com.example.myapplication.Tareas
+package com.example.myapplication.TareasYActividades
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
